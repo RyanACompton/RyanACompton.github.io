@@ -2,7 +2,7 @@
 permalink: /links/
 title: "Links"
 ---
-<strong>My Favourite Economics Department</strong>
+<strong>My Favourite Economics Department</strong><br>
 <a href="http://economics.wustl.edu/">Washington University in St. Louis Economics Department</a>
 
 <strong>Groups I Help Manage</strong>
