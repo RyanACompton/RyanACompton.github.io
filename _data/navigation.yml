@@ -2,7 +2,7 @@ main:
   - title: "About"
     url: /about/
   - title: "CV"
-    url: /CV.pdf/
+    url: https://ryanacompton.github.io/_pages/CV.pdf
   - title: "Research"
     url: /research/
   - title: "Links"
