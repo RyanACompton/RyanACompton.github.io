@@ -13,7 +13,7 @@ title: "Links"
 <a rel="noreferrer noopener" href="http://www.tandfonline.com/toc/gdpe20/current" target="_blank">Defence and Peace Economics</a> <br>
 <a rel="noreferrer noopener" href="http://www.springer.com/economics/policy/journal/41996" target="_blank">Journal of Economics, Race, and Policy</a>.
 
-<strong>Co-authors Past and Present</strong>
+<strong>Co-authors Past and Present</strong><br>
 <a href="https://dyson.cornell.edu/people/arnab-basu">Arnab Basu</a> Cornell University<br>
 <a href="https://scholar.google.com/citations?user=ZseEDGEAAAAJ">Pinaki Bose</a> University of Manitoba<br>
 <a href="http://artcarden.com/">Art Carden</a> Samford University<br>
