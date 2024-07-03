@@ -45,7 +45,8 @@ title: "Links"
 <a href="https://sites.google.com/view/mtlaw">Marc Law</a> University of Vermont<br>
 <a href="https://economics.columbian.gwu.edu/pao-lin-tien">Paolin Tien</a> George Washington University<br>
 <a href="https://home.cc.umanitoba.ca/~oguzoglu/index.htm">Umut Oguzoglu</a> University of Manitoba<br>
-<a href="https://www.metrostate.edu/about/directory/ming-lo">Ming Lo</a> Metropolitain State University<br>
+<a href="https://www.metrostate.edu/about/directory/ming-lo">Ming Lo</a> Metro State University<br>
+<a href="https://home.cc.umanitoba.ca/~godwinrt/">Ryan Godwin</a> University of Manitoba<br>
 <a href="https://faculty.economics.dal.ca/iscan/">Talan Iscan</a> Dalhousie University<br>
 <a href="https://carleton.ca/npsia/people/dane-rowlands/">Dane Rowlands</a> Carleton University<br>
 <a href="https://www.mcgill.ca/economics/franque-grimard">Franque Grimard</a> McGill University<br>
