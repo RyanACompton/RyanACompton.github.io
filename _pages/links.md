@@ -3,14 +3,15 @@ permalink: /links/
 title: "Links"
 ---
 <strong>My Favourite Economics Department</strong><br>
-<a href="http://economics.wustl.edu/">Washington University in St. Louis Economics Department</a>
+<a href="http://economics.wustl.edu/">Washington University in St. Louis</a>
 
-<strong>Groups I Help Manage</strong>
+<strong>Groups I Help Manage</strong><br>
 <a href="https://www.economics.ca/cpages/study-groups">Canadian Development Economics Study Group</a>
+
 <a href="https://www.defenceandsecurityeconomicsworkshop.ca/">Defence and Security Economics Workshop</a>
 
-<strong>Journals I Serve On</strong>
-<a rel="noreferrer noopener" href="http://www.tandfonline.com/toc/gdpe20/current" target="_blank">Defence and Peace Economics</a> 
+<strong>Journals I Serve On</strong><br>
+<a rel="noreferrer noopener" href="http://www.tandfonline.com/toc/gdpe20/current" target="_blank">Defence and Peace Economics</a> <br>
 <a rel="noreferrer noopener" href="http://www.springer.com/economics/policy/journal/41996" target="_blank">Journal of Economics, Race, and Policy</a>.
 
 <strong>Co-authors Past and Present</strong>
