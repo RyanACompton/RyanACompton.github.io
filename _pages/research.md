@@ -3,7 +3,7 @@ permalink: /research/
 title: "Research"
 ---
 
-<a href="https://ryanacompton.github.io/CV.pdf">Short CV</a>
+<a href="[https://ryanacompton.github.io/CV.pdf](https://github.com/RyanACompton/RyanACompton.github.io/blob/master/_pages/CV.pdf)">Short CV</a>
 
 <strong>Interests:</strong> Macro / Development / Conflict / Defence / Institutions
 
