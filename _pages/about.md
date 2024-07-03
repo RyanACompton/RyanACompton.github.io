@@ -3,6 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I hold a PhD in economics from Washington University, and am based in Winnipeg, Canada. I have been a Guest or Visiting Professor at the Central Bank of Brazil, University of Western Ontario , National Economics University (Hanoi), and Duale Hochschule Baden-Württemberg. Prior to academia I held positions in the Accelerated Economist Program (now known as the Advanced Policy Analyst Program) as well as the Department of Finance of the Canadian government.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+My research interests include macroeconomics, development, institutions, defence economics, and more generally projects that allow me to work with interesting people. My most recent work has appeared in Economic Modelling, Defence and Peace Economics, Southern Economic Journal, and Journal of Economics, Race, and Policy.
+
+I currently serve on the executive of the Canadian Development Economics Study Group, co-organize the annual Defence and Security Economics Workshop, and serve on the editorial boards of Defence and Peace Economics and the Journal of Economics, Race, and Policy.
