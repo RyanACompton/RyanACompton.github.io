@@ -3,7 +3,7 @@ permalink: /links/
 title: "Links"
 ---
 <strong>WashU</strong><br>
-<a href="http://economics.wustl.edu/">Economics Department/a><br>
+<a href="http://economics.wustl.edu/">Economics Department</a><br>
 <a href="https://sites.wustl.edu/fazz/"> Steve Fazzari</a> Co-advisor<br>
 <a href="https://sites.google.com/site/jamescmorley/">James Morley</a> Co-advisor<br>
 <a href="https://sites.wustl.edu/gaetano/"> Gaetano Antinofi</a> Committee Member<br>
