@@ -23,12 +23,12 @@ title: "Links"
 <a href="http://janicecompton.wordpress.com">Janice Compton</a> University of Manitoba<br>
 <a href="https://sites.google.com/view/andreacraig/home">Andrea Craig</a> UBCO<br>
 <a href="http://kuhelika-de.weebly.com/">Kuhelika De</a> Butler University<br>
-<a href="https://www.ncat.edu/employee-bio.php?directoryID=1765822481">Johnny Ducking</a> North Carolina A&amp;T<br>
+<a href="https://www.ncat.edu/employee-bio.php?directoryID=1765822481">Johnny Ducking</a> University of Mississippi<br>
 <a href="https://dangiedeman.wordpress.com">Dan Giedeman</a> Grand Valley State<br>
 <a href="https://economics.fiu.edu/people/full-time-faculty/ji-gu/">Ji Gu</a> Florida International University<br>
 <a href="https://www.rwi-essen.de/en/rwi/team/person/doerte-heger">Dörte Heger</a> RWI<br>
 <a href="https://sites.google.com/site/garyhoovereconomics/home">Gary Hoover</a> Tulane University<br>
-<a href="http://jeremyjacksonphd.com/">Jeremy Jackson</a> North Dakota State <br>
+<a href="http://jeremyjacksonphd.com/">Jeremy Jackson</a> Fayetteville State University <br>
 <a href="https://noeldjohnson.github.io/">Noel Johnson</a> George Mason University<br>
 <a href="https://www.gvsu.edu/seidman/facultystaff-directory-195.htm?recordId_1=CB6380EB-72A7-A8F6-21E4B89E51098A8B#E277C63A-5715-217A-5A00D3A0737508AD">Leslie Muller</a> Grand Valley State<br> 
 <a href="http://law.uwo.ca/about_us/our_people/faculty/christopher_nicholls.html">Chris Nicholls</a> Western Ontario<br>
