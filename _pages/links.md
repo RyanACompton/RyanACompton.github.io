@@ -23,7 +23,7 @@ title: "Links"
 <a href="http://janicecompton.wordpress.com">Janice Compton</a> University of Manitoba<br>
 <a href="https://sites.google.com/view/andreacraig/home">Andrea Craig</a> UBCO<br>
 <a href="http://kuhelika-de.weebly.com/">Kuhelika De</a> Butler University<br>
-<a href="https://www.ncat.edu/employee-bio.php?directoryID=1765822481">Johnny Ducking</a> University of Mississippi<br>
+<a href="https://olemiss.edu/profiles/jcduckin">Johnny Ducking</a> University of Mississippi<br>
 <a href="https://dangiedeman.wordpress.com">Dan Giedeman</a> Grand Valley State<br>
 <a href="https://economics.fiu.edu/people/full-time-faculty/ji-gu/">Ji Gu</a> Florida International University<br>
 <a href="https://www.rwi-essen.de/en/rwi/team/person/doerte-heger">Dörte Heger</a> RWI<br>
