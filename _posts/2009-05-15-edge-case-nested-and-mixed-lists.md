@@ -1,5 +1,5 @@
 ---
-title: "Edge Case: Nested and Mixed Lists"
+title: "New Tipping Paper"
 categories:
   - Edge Case
 tags:
@@ -9,6 +9,7 @@ tags:
   - lists
   - markup
 ---
+Be sure to check out my latest paper “Disentangling Customer and Employer Discrimination Using State Variation in the Tipped Minimum Wage” (with Janice Compton) at the Journal of Economics, Race, and Policy.
 
 Nested and mixed lists are an interesting beast. It's a corner case to make sure that
 
