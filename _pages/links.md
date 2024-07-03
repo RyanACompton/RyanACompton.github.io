@@ -37,3 +37,9 @@ title: "Links"
 <a href="https://econ.ucalgary.ca/manageprofile/profiles/1-8280102">Lindsay Tedds </a>University of Calgary<br>
 <a href="https://www.stedwards.edu/directory/employees/chen-xu">Chen Xu </a>St. Edward&#8217;s University<br>
 <a href="http://web.csulb.edu/~syamarik/">Steven Yamarik</a> Cal State Long Beach<br>
+
+<strong>Other Interesting Colleagues</strong><br>
+<a href="http://www.uvm.edu/~mlaw/">Marc Law</a> Vermont<br>
+<a href="https://economics.columbian.gwu.edu/pao-lin-tien">Paolin Tien</a> George Washington<br>
+<a href="https://kurtannen.wordpress.com/">Kurt Annen</a> Guelph<br>
+
