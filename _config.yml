@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Ryan A Compton"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I am a Professor of Economics and hold a PhD in economics from Washington University in St. Louis. I am also an executive member of the Canadian Development Economics Study Group and the Defence and Security Economics Workshop."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
