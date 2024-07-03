@@ -4,9 +4,9 @@ title: "Links"
 ---
 <strong>WashU</strong><br>
 <a href="http://economics.wustl.edu/">Economics Department</a><br>
-<a href="https://sites.wustl.edu/fazz/"> Steve Fazzari</a> Co-advisor<br>
-<a href="https://sites.google.com/site/jamescmorley/">James Morley</a> Co-advisor<br>
-<a href="https://sites.wustl.edu/gaetano/"> Gaetano Antinofi</a> Committee Member<br>
+<a href="https://sites.wustl.edu/fazz/"> Steve Fazzari</a> <br>
+<a href="https://sites.google.com/site/jamescmorley/">James Morley</a> <br>
+<a href="https://sites.wustl.edu/gaetano/"> Gaetano Antinofi</a> <br>
 
 <strong>Groups I Help Manage</strong><br>
 <a href="https://www.economics.ca/cpages/study-groups">Canadian Development Economics Study Group</a><br>
