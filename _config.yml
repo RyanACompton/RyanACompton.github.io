@@ -62,6 +62,9 @@ author:
   avatar : "/assets/images/RAC.jpg"
   bio    : "I am a Professor of Economics and hold a PhD from Washington University. I am also an executive member of the Canadian Development Economics Study Group and the Defence and Security Economics Workshop."
   links:
+    - label: "Location:
+      icon: "fa-solid fa-location-dot icon-pad-right"
+      "Winnipeg"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://RyanACompton.github.io"
@@ -69,7 +72,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/RyanACompton"
     - label: "Email"
-      icon: "fab fa-fw fa-envelope-square"
+      icon: "fab fa-fw fa-envelope icon-pad-right"
       url: "mailto:rcompton@wustl.edu/"
 
 footer:
