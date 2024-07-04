@@ -62,7 +62,7 @@ author:
   avatar : "/assets/images/RAC.jpg"
   bio    : "I am a Professor of Economics and hold a PhD from Washington University. I am also an executive member of the Canadian Development Economics Study Group and the Defence and Security Economics Workshop."
   links:
-    - label: "Location:
+    - label: "Location"
       icon: "fa-solid fa-location-dot icon-pad-right"
       "Winnipeg"
     - label: "Website"
