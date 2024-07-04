@@ -63,8 +63,9 @@ author:
   bio    : "I am a Professor of Economics and hold a PhD from Washington University. I am also an executive member of the Canadian Development Economics Study Group and the Defence and Security Economics Workshop."
   links:
     - label: "Location"
-      icon: "fa-solid fa-location-dot icon-pad-right"
-      "Winnipeg"
+      <i class="fa-solid fa-location-dot icon-pad-right" aria-hidden="true">
+      </i>Earth</li>
+
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://RyanACompton.github.io"
