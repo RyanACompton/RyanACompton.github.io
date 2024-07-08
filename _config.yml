@@ -63,7 +63,7 @@ author:
   bio    : "I am a Professor of Economics and hold a PhD from Washington University. I am also an executive member of the Canadian Development Economics Study Group and the Defence and Security Economics Workshop."
   links:
    -  label: "Winnipeg"
-      icon: "fab fa-location-arrow"
+      icon: "fas fa-fw fa-envelope-square"      
       url: "https://www.nhl.com/jets/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
