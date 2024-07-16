@@ -43,6 +43,6 @@ A Distributional Analysis of the Benefits of Economic Freedom. (With Dan Giedema
 
 <p>Panel Evidence on Finance, Institutions, and Economic Growth. (With Dan Giedeman). Applied Economics. Vol. 43(25), 3523-3547, 2011. <a href="https://www.tandfonline.com/doi/abs/10.1080/00036841003670713">Paper</a></p>
 
-<p>War! What is it Good For? A Deep Determinants Analysis of the Cost of Interstate Conflict. (with Steve Yamarik and Noel Johnson). Peace Economics, Peace Science, and Public Policy. Vol. 16(1), Article 8, 1-33,, 2010. <a href="https://www.dropbox.com/s/h05ji693maolr0i/2010%20War%20What%20Good%20For%20PEPSPP.pdf?dl=0">Paper</a></p>
+<p>War! What is it Good For? A Deep Determinants Analysis of the Cost of Interstate Conflict. (with Steve Yamarik and Noel Johnson). Peace Economics, Peace Science, and Public Policy. Vol. 16(1), Article 8, 1-33, 2010. <a href="https://www.dropbox.com/s/h05ji693maolr0i/2010%20War%20What%20Good%20For%20PEPSPP.pdf?dl=0">Paper</a></p>
 
 Investing in Institutions. (with Noel Johnson and Dan Giedeman). Economics and Politics. Vol. 22(3),419-445, 2010. <a href="https://www.dropbox.com/s/i8r7ctmi915go6u/2010%20Invest%20Institutions%20EconPolitics.pdf?dl=0">Paper</a>
