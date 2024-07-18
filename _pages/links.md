@@ -57,4 +57,4 @@ title: "Links"
 <a href="https://sites.google.com/view/federicoguzman/home">Federico Guzman</a> University of Manitoba<br>
 <a href="https://sites.google.com/site/yepezcarlos/">Carlos Yepez</a> University of Manitoba<br>
 <a href="https://sites.google.com/site/siteofedgarvilla/">Edgar Villa</a> University of Manitoba<br>
-<a href="https://home.cc.umanitoba.ca/~simpson/">Wayne Simpson</a> University of Manitoba<br> (Honorary)
+<a href="https://home.cc.umanitoba.ca/~simpson/">Wayne Simpson</a> University of Manitoba (Honorary)<br>
