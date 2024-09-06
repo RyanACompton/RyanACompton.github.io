@@ -49,12 +49,12 @@ title: "Links"
 <a href="https://carleton.ca/npsia/people/dane-rowlands/">Dane Rowlands</a> Carleton University<br>
 <a href="https://www.mcgill.ca/economics/franque-grimard">Franque Grimard</a> McGill University<br>
 
-<strong>6th Floor Crew</strong><br>
-<a href="https://home.cc.umanitoba.ca/~oguzoglu/index.htm">Umut Oguzoglu</a> University of Manitoba<br>
-<a href="https://home.cc.umanitoba.ca/~godwinrt/">Ryan Godwin</a> University of Manitoba<br>
-<a href="https://sites.google.com/view/kris-shaw/home">Kris Shaw</a> University of Manitoba<br>
-<a href="https://sites.google.com/view/edwardhonda/home">Edward Honda</a> University of Manitoba<br>
-<a href="https://sites.google.com/view/federicoguzman/home">Federico Guzman</a> University of Manitoba<br>
-<a href="https://sites.google.com/site/yepezcarlos/">Carlos Yepez</a> University of Manitoba<br>
-<a href="https://sites.google.com/site/siteofedgarvilla/">Edgar Villa</a> University of Manitoba<br>
-<a href="https://home.cc.umanitoba.ca/~simpson/">Wayne Simpson</a> University of Manitoba (Honorary)<br>
+<strong>UofM 6th Floor Crew</strong><br>
+<a href="https://home.cc.umanitoba.ca/~oguzoglu/index.htm">Umut Oguzoglu</a> PhD, Guelph<br>
+<a href="https://home.cc.umanitoba.ca/~godwinrt/">Ryan Godwin</a> PhD, UVic<br>
+<a href="https://sites.google.com/view/kris-shaw/home">Kris Shaw</a> PhD, Penn<br>
+<a href="https://sites.google.com/view/edwardhonda/home">Edward Honda</a> Phd, WashU<br>
+<a href="https://sites.google.com/view/federicoguzman/home">Federico Guzman</a> PhD, UBC<br>
+<a href="https://sites.google.com/site/yepezcarlos/">Carlos Yepez</a> PhD, Brandeis<br>
+<a href="https://sites.google.com/site/siteofedgarvilla/">Edgar Villa</a> PhD, BU<br>
+<a href="https://home.cc.umanitoba.ca/~simpson/">Wayne Simpson</a> PhD, LSE<br>
