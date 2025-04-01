@@ -26,7 +26,7 @@ title: "Links"
 <a href="https://olemiss.edu/profiles/jcduckin">Johnny Ducking</a> University of Mississippi<br>
 <a href="https://dangiedeman.wordpress.com">Dan Giedeman</a> Grand Valley State<br>
 <a href="https://economics.fiu.edu/people/full-time-faculty/ji-gu/">Ji Gu</a> Florida International University<br>
-<a href="https://www.rwi-essen.de/en/rwi/team/person/doerte-heger">Dörte Heger</a> RWI<br>
+<a href="https://scholar.google.com/citations?user=ejkaXIEAAAAJ&hl=en">Dörte Heger</a> Bochum University of Applied Sciences<br>
 <a href="https://sites.google.com/site/garyhoovereconomics/home">Gary Hoover</a> Tulane University<br>
 <a href="http://jeremyjacksonphd.com/">Jeremy Jackson</a> Fayetteville State University <br>
 <a href="https://noeldjohnson.github.io/">Noel Johnson</a> George Mason University<br>
