@@ -31,13 +31,13 @@ title: "Links"
 <a href="http://jeremyjacksonphd.com/">Jeremy Jackson</a> Fayetteville State University <br>
 <a href="https://noeldjohnson.github.io/">Noel Johnson</a> George Mason University<br>
 <a href="https://www.gvsu.edu/seidman/facultystaff-directory-195.htm?recordId_1=CB6380EB-72A7-A8F6-21E4B89E51098A8B#E277C63A-5715-217A-5A00D3A0737508AD">Leslie Muller</a> Grand Valley State<br> 
-<a href="http://law.uwo.ca/about_us/our_people/faculty/christopher_nicholls.html">Chris Nicholls</a> Western Ontario<br>
-<a href="https://www.rmcc-cmrc.ca/en/management-and-economics/bryan-paterson">Bryan Paterson</a> RMC<br>
+<a href="https://law.uwo.ca/about_us/faculty/christopher_nicholls.html">Chris Nicholls</a> Western Ontario<br>
+<a href="https://www.rmc-cmr.ca/en/political-science-economics/bryan-paterson">Bryan Paterson</a> RMC<br>
 <a href="http://www.eylaw.ca/lw/en/people/daniel-sandler">Daniel Sandler</a> Western Ontario<br>
 <a href="https://la.linkedin.com/in/jose-ricardo-da-costa-e-silva-8b1493">Jose Da Costa e Silva</a> Central Bank of Brazil<br>
 <a href="http://home.cc.umanitoba.ca/~simpson/">Wayne Simpson</a> Univ of Manitoba<br>
 <a href="https://sites.google.com/site/karlskogstad/">Karl Skogstad</a> Lakehead University<br>
-<a href="https://econ.ucalgary.ca/manageprofile/profiles/1-8280102">Lindsay Tedds </a>University of Calgary<br>
+<a href="https://www.lindsaytedds.ca/">Lindsay Tedds </a>University of Calgary<br>
 <a href="https://chenxuecon.github.io/">Chen Xu </a>St. Edward&#8217;s University<br>
 <a href="http://web.csulb.edu/~syamarik/">Steven Yamarik</a> Cal State Long Beach<br>
 
