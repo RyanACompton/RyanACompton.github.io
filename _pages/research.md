@@ -9,7 +9,7 @@ title: "Research"
 
 <strong>Copies of Some of My Papers</strong> 
 
-Origin Country Conflict and Immigrant Physical Health (with Andrea Craig, Dorte Heger, and Karl Skogstad). Defence and Peace Economics (Forthcoming). <a>Paper (Coming Soon)</a>
+Origin Country Conflict and Immigrant Physical Health (with Andrea Craig, Dorte Heger, and Karl Skogstad). Defence and Peace Economics (Forthcoming). <a>Paper</a> (Coming Soon)
 
 Disentangling Customer and Employer Discrimination Using State Variation in the Tipped Minimum Wage (with Janice Compton). Journal of Economics, Race, and Policy. Vol. 7(2): 65-81, 2024. <a href="https://ryancompton.wordpress.com/wp-content/uploads/2024/02/compton-and-compton-2024.pdf">Paper</a>
 
