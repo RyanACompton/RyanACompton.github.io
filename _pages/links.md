@@ -30,7 +30,7 @@ title: "Links"
 <a href="https://sites.google.com/site/garyhoovereconomics/home">Gary Hoover</a> Tulane University<br>
 <a href="http://jeremyjacksonphd.com/">Jeremy Jackson</a> Fayetteville State University <br>
 <a href="https://noeldjohnson.github.io/">Noel Johnson</a> George Mason University<br>
-<a href="https://www.ebri.org/about/staff/leslie-muller">Leslie Muller</a> Employee Benefits Research Institute<br> 
+<a href="https://www.ebri.org/about/staff/leslie-muller">Leslie Muller</a> Employee Benefit Research Institute<br> 
 <a href="https://law.uwo.ca/about_us/faculty/christopher_nicholls.html">Chris Nicholls</a> Western Ontario<br>
 <a href="https://www.rmc-cmr.ca/en/political-science-economics/bryan-paterson">Bryan Paterson</a> RMC<br>
 <a href="http://www.eylaw.ca/lw/en/people/daniel-sandler">Daniel Sandler</a> Western Ontario<br>
