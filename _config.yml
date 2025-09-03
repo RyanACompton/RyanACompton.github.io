@@ -17,9 +17,9 @@ title: Ryan A Compton
 email: rcompton@wustl.edu
 description: >- # this means to ignore newlines until "baseurl:"
   I am a Professor of Economics with a PhD from Washington University. My research interests include macro, development, conflict, and institutions.
-twitter_username: username
+twitter_username: usernam
 github_username: username
-minimal_mistakes_skin: contrast
+minimal_mistakes_skin: neon
 search: false
 
 # Build settings
