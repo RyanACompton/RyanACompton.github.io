@@ -2,7 +2,7 @@
 permalink: /links/
 title: "Links"
 ---
-<strong>WashU</strong><br>
+<strong>WashU Folks</strong><br>
 <a href="http://economics.wustl.edu/">Economics Department</a><br>
 <a href="https://sites.wustl.edu/fazz/"> Steve Fazzari</a> <br>
 <a href="https://sites.google.com/site/jamescmorley/">James Morley</a> <br>
@@ -41,7 +41,7 @@ title: "Links"
 <a href="https://chenxuecon.github.io/">Chen Xu </a>St. Edward&#8217;s University<br>
 <a href="http://web.csulb.edu/~syamarik/">Steven Yamarik</a> Cal State Long Beach<br>
 
-<strong>Other Interesting People</strong><br>
+<strong>Interesting People</strong><br>
 <a href="https://sites.google.com/view/mtlaw">Marc Law</a> University of Vermont<br>
 <a href="https://economics.columbian.gwu.edu/pao-lin-tien">Paolin Tien</a> George Washington University<br>
 <a href="https://www.metrostate.edu/about/directory/ming-lo">Ming Lo</a> Metro State University<br>
