@@ -1,15 +1,9 @@
----
-# Only the dashes and front matter matter here
----
-
-@import "minimal-mistakes";
-
-/* --- Custom overrides --- */
 .author__avatar img {
-  max-width: 220px;   /* change to 200px or 220px if you want bigger */
-  border-radius: 50%; /* makes it perfectly round */
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;  /* crops nicely instead of stretching */
 }
-
 .author__avatar {
-  width: 220px;       /* keeps the container matched to the image */
+  width: 200px;
 }
