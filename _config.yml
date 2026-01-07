@@ -18,7 +18,7 @@ email: rcompton@wustl.edu
 description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: usernam
 github_username: username
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dirty
 
 search: false
 
