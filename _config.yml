@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Ryan A Compton"
   avatar : "/assets/images/Ryan-Compton.jpg"
-  bio    : "I am a Professor of Economics with a PhD from Washington University. I serve on the executive of the Canadian Development Economics Study Group as well as the Defence and Security Economics Workshop."
+  bio    : "I am a Professor of Economics and serve on the executive of the Canadian Development Economics Study Group as well as the Defence and Security Economics Workshop."
   links:
     - label: "Winnipeg"
       icon: "fas fa-fw fa-home"      
