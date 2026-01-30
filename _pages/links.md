@@ -9,7 +9,7 @@ title: "Links"
 <a href="https://sites.wustl.edu/gaetano/"> Gaetano Antinofi</a> <br>
 
 <strong>Groups I Help Manage</strong><br>
-<a href="https://www.economics.ca/cpages/study-groups">Canadian Development Economics Study Group</a><br>
+<a href="https://sites.google.com/view/cdesg">Canadian Development Economics Study Group</a><br>
 <a href="https://www.defenceandsecurityeconomicsworkshop.ca/">Defence and Security Economics Workshop</a>
 
 <strong>Journals I Serve On</strong><br>
