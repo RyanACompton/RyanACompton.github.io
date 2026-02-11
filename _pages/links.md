@@ -58,4 +58,4 @@ title: "Links"
 <a href="https://sites.google.com/view/federicoguzman/home">Federico Guzman</a> PhD, UBC<br>
 <a href="https://sites.google.com/site/yepezcarlos/">Carlos Yepez</a> PhD, Brandeis<br>
 <a href="https://sites.google.com/site/siteofedgarvilla/">Edgar Villa</a> PhD, BU<br>
-<a href="https://home.cc.umanitoba.ca/~simpson/">Wayne Simpson</a> PhD, LSE<br>
+<a href="https://umanitoba.ca/arts/wayne-simpson">Wayne Simpson</a> PhD, LSE<br>
