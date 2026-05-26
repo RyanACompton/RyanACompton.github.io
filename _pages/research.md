@@ -4,6 +4,7 @@ title: "Research"
 ---
 
 <a href="https://ryanacompton.github.io/_pages/cv.pdf">CV</a>
+
 <a href="https://scholar.google.ca/citations?user=8PGw85QAAAAJ&hl=en&oi=ao">Google Scholar</a>
 
 <strong>Interests:</strong> Macro / Development / Conflict / Defence / Institutions
@@ -16,7 +17,7 @@ Disentangling Customer and Employer Discrimination Using State Variation in the 
 
 Introduction to the Special Issue: the Economics of Race, Gender, and Sports (with Johnny Ducking). Journal of Economics, Race, and Policy. Vol. 6(3): 147-148, 2023. <a href="https://link.springer.com/content/pdf/10.1007/s41996-023-00126-y.pdf">Paper</a>
 
-Oil Shocks and the US Economy in a Data-rich Model (with Kuhelika De and Dan Giedeman). Economic Modelling. Vol 108, 105755, 2022. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3658783">Paper</a>.
+Oil Shocks and the US Economy in a Data-rich Model (with Kuhelika De and Dan Giedeman). Economic Modelling. Vol 108, 105755, 2022. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3658783">Paper</a>
 
 Country Survey: Canadian Military Expenditure and Defence Policy (with Karl Skogstad). Defence and Peace Economics. Vol 33  (5): 616-636, 2022.<a href="https://www.tandfonline.com/eprint/U8YTKVUSKPDU6TGTPMED/full?target=10.1080/10242694.2021.1963525"> Paper</a>.
 
