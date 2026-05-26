@@ -4,7 +4,9 @@ title: "Research"
 ---
 
 <a href="https://ryanacompton.github.io/_pages/cv.pdf">CV</a>
+
 <a href="https://scholar.google.ca/citations?user=8PGw85QAAAAJ&hl=en&oi=ao">Google Scholar</a>
+
 <strong>Interests:</strong> Macro / Development / Conflict / Defence / Institutions
 
 <strong>Copies of Some of My Papers</strong> 
