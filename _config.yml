@@ -70,7 +70,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:rcompton@wustl.edu/"
     - label: "Google Scholar"
-      icon: "ai ai-google-scholar"
+      icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.ca/citations?user=8PGw85QAAAAJ&hl=en&oi=ao"
 
 footer:
