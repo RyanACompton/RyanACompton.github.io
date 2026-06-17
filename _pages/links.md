@@ -20,7 +20,7 @@ title: "Links"
 <a href="https://dyson.cornell.edu/people/arnab-basu">Arnab Basu</a> Cornell University<br>
 <a href="https://scholar.google.com/citations?user=ZseEDGEAAAAJ">Pinaki Bose</a> University of Manitoba<br>
 <a href="http://artcarden.com/">Art Carden</a> Samford University<br>
-<a href="http://sites.google.com/view/janicecompton">Janice Compton</a> University of Manitoba<br>
+<a href="https://sites.google.com/view/janicecompton">Janice Compton</a> University of Manitoba<br>
 <a href="https://sites.google.com/view/andreacraig/home">Andrea Craig</a> UBCO<br>
 <a href="http://kuhelika-de.weebly.com/">Kuhelika De</a> Butler University<br>
 <a href="https://olemiss.edu/profiles/jcduckin">Johnny Ducking</a> University of Mississippi<br>
