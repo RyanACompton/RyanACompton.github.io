@@ -38,7 +38,7 @@ title: "Links"
 <a href="http://home.cc.umanitoba.ca/~simpson/">Wayne Simpson</a> Univ of Manitoba<br>
 <a href="https://sites.google.com/site/karlskogstad/">Karl Skogstad</a> Lakehead University<br>
 <a href="https://www.lindsaytedds.ca/">Lindsay Tedds </a>University of Calgary<br>
-<a href="https://chenxuecon.github.io/">Chen Xu </a>St. Edward&#8217;s University<br>
+<a href="https://chenxuecon.github.io/">Chen Xu </a>St. Edwards University<br>
 <a href="http://web.csulb.edu/~syamarik/">Steven Yamarik</a> Cal State Long Beach<br>
 
 <strong>Interesting People</strong><br>
