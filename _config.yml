@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Ryan A Compton"
   avatar : "/assets/images/RAC.jpg"
-  bio    : "I am a Professor of Economics and executive member of the Canadian Development Economics Study Group and the Defence and Security Economics Workshop."
+  bio    : "Professor of Economics and executive member of the CDESG and the DSEW."
   links:
     - label: "Winnipeg"
       icon: "fas fa-fw fa-home"      
