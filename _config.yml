@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Ryan A Compton"
   avatar : "/assets/images/RAC.jpg"
-  bio    : "Professor of Economics and executive member of the CDESG and the DSEW."
+  bio    : "Professor of Economics and board member of the CDESG and DSEW."
   links:
     - label: "Winnipeg"
       icon: "fas fa-fw fa-home"      
