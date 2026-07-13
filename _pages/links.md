@@ -2,12 +2,6 @@
 permalink: /links/
 title: "Links"
 ---
-<strong>WashU Folks</strong><br>
-<a href="http://economics.wustl.edu/">Economics Department</a><br>
-<a href="https://sites.wustl.edu/fazz/"> Steve Fazzari</a> <br>
-<a href="https://sites.google.com/site/jamescmorley/">James Morley</a> <br>
-<a href="https://sites.wustl.edu/gaetano/"> Gaetano Antinofi</a> <br>
-
 <strong>Groups I Help Manage</strong><br>
 <a href="https://sites.google.com/view/cdesg">Canadian Development Economics Study Group</a><br>
 <a href="https://www.defenceandsecurityeconomicsworkshop.ca/">Defence and Security Economics Workshop</a>
