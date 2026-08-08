@@ -3,6 +3,10 @@ main:
     url: https://ryanacompton.github.io/_pages/cv.pdf
   - title: "Research"
     url: /research/
+  - title: "Professional"
+    url: /professional/
   - title: "Links"
     url: /links/
+    - title: "Teaching"
+    url: /teaching/
  
