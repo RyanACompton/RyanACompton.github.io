@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Ryan A Compton"
   avatar : "/assets/images/RAC.jpg"
-  bio    : "Professor of Economics and board member of the CDESG, DSEW, DPE, and JERP."
+  bio    : "University of Manitoba<br> Canadian Development Economics Study Group<br> Defence and Security Economics Workshop."
   links:
     - label: "Winnipeg"
       icon: "fas fa-fw fa-home"      
