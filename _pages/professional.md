@@ -5,13 +5,13 @@ title: "Professional Activities"
 
 ## Editorial Activities
 
-- Editorial Board, *Journal of Economics, Race, & Policy*, 2017–present
-- Editorial Board, *Defence and Peace Economics*, 2016–present
-- Guest Editor, special issue on the Economics of Race, Gender, and Sports, *Journal of Economics, Race, & Policy*, 2021–2023
+- Editorial Board, *Journal of Economics, Race, & Policy*
+- Editorial Board, *Defence and Peace Economics*
+- Guest Editor, special issue on the Economics of Race, Gender, and Sports, *Journal of Economics, Race, & Policy*
 
 ## Economics Profession
 
-- Co-organizer, Defence & Security Economics Workshop, 2022–present
+- Co-organizer, Defence & Security Economics Workshop
 - Past-President, Canadian Development Economics Study Group
 - Program Committee, Canadian Development Economics Study Group / Development Sessions of the Canadian Economics Association
 
@@ -19,7 +19,6 @@ title: "Professional Activities"
 
 **SSHRC Insight Development Grant, 2025–2027**  
 *Measuring Conflict and Estimating the Impacts on Immigrant Outcomes*  
-Co-investigator.
 
 ## Visiting and Public-Sector Experience
 
