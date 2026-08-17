@@ -12,8 +12,8 @@ title: "Professional Activities"
 ## Economics Profession
 
 - Co-organizer, Defence & Security Economics Workshop
-- Past-President, Canadian Development Economics Study Group
-- Program Committee, Canadian Development Economics Study Group / Development Sessions of the Canadian Economics Association
+- Past-President and Executive Member, Canadian Development Economics Study Group
+- Program Committee, Canadian Development Economics Study Group Sessions of the Canadian Economics Association
 
 ## Research Funding
 
