@@ -7,7 +7,7 @@ title: "Research"
 <a href="https://orcid.org/0000-0001-7752-3545"> ORCID ID </a><br>
 <a href="https://scholar.google.ca/citations?user=8PGw85QAAAAJ&hl=en&oi=ao"> Google Scholar </a><br>
 <br>
-<strong>Interests:</strong> Macro / Development / Conflict / Defence / Institutions
+<strong>Interests:</strong> Macro / Development / Conflict / Defence / Institutions / Sports
 
 <strong>Copies of Some of My Papers</strong> 
 
