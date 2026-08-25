@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Ryan A Compton"
   avatar : "/assets/images/IMG_8154.jpg"
-  bio    : "University of Manitoba<br> Canadian Dev Econ Study Group<br> Defence & Security Econ Workshop"
+  bio    : "University of Manitoba<br> Canadian Dev Econ Study Group<br> Defence & Security Econ Workshop<br>Fields: Macro, Conflict, Institutions, Development"
   links:
     - label: "Winnipeg"
       icon: "fas fa-fw fa-home"      
