@@ -6,11 +6,11 @@ title: "Links"
 <a href="https://sites.google.com/view/cdesg">Canadian Development Economics Study Group</a><br>
 <a href="https://www.defenceandsecurityeconomicsworkshop.ca/">Defence and Security Economics Workshop</a>
 
-<strong>Journals I Serve On</strong><br>
+## Journals I Serve On
 <a rel="noreferrer noopener" href="http://www.tandfonline.com/toc/gdpe20/current" target="_blank">Defence and Peace Economics</a> <br>
 <a rel="noreferrer noopener" href="http://www.springer.com/economics/policy/journal/41996" target="_blank">Journal of Economics, Race, and Policy</a>.
 
-<strong>Co-authors Past and Present</strong><br>
+## Co-authors Past and Present
 <a href="https://dyson.cornell.edu/people/arnab-basu">Arnab Basu</a> Cornell University<br>
 <a href="https://scholar.google.com/citations?user=ZseEDGEAAAAJ">Pinaki Bose</a> University of Manitoba<br>
 <a href="http://artcarden.com/">Art Carden</a> Samford University<br>
@@ -35,7 +35,7 @@ title: "Links"
 <a href="https://chenxuecon.github.io/">Chen Xu </a>St. Edwards University<br>
 <a href="http://web.csulb.edu/~syamarik/">Steven Yamarik</a> Cal State Long Beach<br>
 
-<strong>Interesting People</strong><br>
+## Interesting People
 <a href="https://sites.google.com/view/mtlaw">Marc Law</a> University of Vermont<br>
 <a href="https://economics.columbian.gwu.edu/pao-lin-tien">Paolin Tien</a> George Washington University<br>
 <a href="https://www.metrostate.edu/about/directory/ming-lo">Ming Lo</a> Metro State University<br>
@@ -44,7 +44,7 @@ title: "Links"
 <a href="https://carleton.ca/npsia/people/dane-rowlands/">Dane Rowlands</a> Carleton University<br>
 <a href="https://www.mcgill.ca/economics/franque-grimard">Franque Grimard</a> McGill University<br>
 
-<strong>UofM 6th Floor</strong><br>
+## UofM 6th Floor
 <a href="https://home.cc.umanitoba.ca/~oguzoglu/index.htm">Umut Oguzoglu</a> PhD, Guelph<br>
 <a href="https://home.cc.umanitoba.ca/~godwinrt/">Ryan Godwin</a> PhD, UVic<br>
 <a href="https://sites.google.com/view/kris-shaw/home">Kris Shaw</a> PhD, Penn<br>
