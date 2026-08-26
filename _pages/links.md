@@ -48,7 +48,7 @@ title: "Links"
 <a href="https://home.cc.umanitoba.ca/~oguzoglu/index.htm">Umut Oguzoglu</a> PhD, Guelph<br>
 <a href="https://home.cc.umanitoba.ca/~godwinrt/">Ryan Godwin</a> PhD, UVic<br>
 <a href="https://sites.google.com/view/kris-shaw/home">Kris Shaw</a> PhD, Penn<br>
-<a href="https://sites.google.com/view/edwardhonda/home">Edward Honda</a> Phd, WashU<br>
+<a href="https://sites.google.com/view/edwardhonda/home">Edward Honda</a> PhD, WashU<br>
 <a href="https://sites.google.com/view/federicoguzman/home">Federico Guzman</a> PhD, UBC<br>
 <a href="https://sites.google.com/site/yepezcarlos/">Carlos Yepez</a> PhD, Brandeis<br>
 <a href="https://sites.google.com/site/siteofedgarvilla/">Edgar Villa</a> PhD, BU<br>
