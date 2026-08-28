@@ -17,6 +17,7 @@ title: "Links"
 <a href="https://sites.google.com/view/janicecompton">Janice Compton</a> University of Manitoba<br>
 <a href="https://sites.google.com/view/andreacraig/home">Andrea Craig</a> UBCO<br>
 <a href="http://kuhelika-de.weebly.com/">Kuhelika De</a> Butler University<br>
+<a href="https://www.rmc-cmr.ca/en/political-science-economics/bill-dorval">Bill Dorval</a> RMC<br>
 <a href="https://olemiss.edu/profiles/jcduckin">Johnny Ducking</a> University of Mississippi<br>
 <a href="https://dangiedeman.wordpress.com">Dan Giedeman</a> Grand Valley State<br>
 <a href="https://economics.fiu.edu/people/full-time-faculty/profiles/ji-gu.html">Ji Gu</a> Florida International University<br>
