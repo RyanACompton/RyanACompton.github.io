@@ -13,7 +13,7 @@ title: "Research"
 
 ## Defence and Military Spending
 
-Canadian Defence Spending: Historical Context and the Implications of a 5 Percent GDP Target (With Karl Skogstad). Canadian Tax Journal (Forthcoming)
+<b>Canadian Defence Spending: Historical Context and the Implications of a 5 Percent GDP Target</b> (With Karl Skogstad). <i>Canadian Tax Journal</i> (Forthcoming)
 
 Country Survey: Canadian Military Expenditure and Defence Policy (with Karl Skogstad). Defence and Peace Economics. Vol 33  (5): 616-636, 2022.<a href="https://www.tandfonline.com/eprint/U8YTKVUSKPDU6TGTPMED/full?target=10.1080/10242694.2021.1963525"> Paper</a>.
 
